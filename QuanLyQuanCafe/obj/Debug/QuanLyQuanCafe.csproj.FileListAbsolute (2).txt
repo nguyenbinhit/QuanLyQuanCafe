@@ -1,0 +1,13 @@
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.bLogin.resources
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.bTableManager.resources
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.bAccountProfile.resources
+D:\Lập trình viên kỳ 2\Winform\doan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.bAdmin.resources
